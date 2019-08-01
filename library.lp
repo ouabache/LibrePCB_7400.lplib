@@ -1,0 +1,10 @@
+(librepcb_library 970950c5-71a1-4e5b-b651-2a9a6441e562
+ (name "LibrePCB_7400")
+ (description "Parts library for 7400 series families")
+ (keywords "")
+ (author "ouabacheDesignWorks")
+ (version "0.1")
+ (created 2019-08-01T15:40:20Z)
+ (deprecated false)
+ (url "")
+)

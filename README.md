@@ -1,2 +1,10 @@
-# LibrePCB_7400.lplib
-LibrePCB library for 7400 logic families
+# LibrePCB_7400
+
+## Description
+
+This is a [LibrePCB](https://librepcb.org) library!
+Just edit this file to add a description about it.
+
+## License
+
+Creative Commons (CC0-1.0). For the license text, see [LICENSE.txt](LICENSE.txt).
