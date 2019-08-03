@@ -1,0 +1,24 @@
+7400 quad 2 input nand gate
+7402 quad 2 input nor gate
+7408 quad 2 input and gate
+7432 quad 2 input or gate
+7486 quad 2 input xor gate
+
+7410 triple 3 input nand gate
+7411 triple 3 input and gate
+
+7427 triple 3 input nor gate  
+
+7420 Dual 4 input nand gate
+7421 Dual 4 input and gate
+
+
+7404 hex inverter
+7414 hex schmitt inverter
+
+
+7474 D FlipFlop with active low preset and clear
+
+
+74138 3/8 decoder
+74245 octal transceiver

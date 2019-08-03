@@ -1,6 +1,6 @@
 (librepcb_component 0a926cdc-645e-4bae-ab77-edbc4091b4c4
  (name "7408")
- (description "quad 2 inout and gate")
+ (description "quad 2 input and gate")
  (keywords "")
  (author "ouabacheDesignWorks")
  (version "0.1")
