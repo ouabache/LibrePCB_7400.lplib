@@ -7,5 +7,6 @@
  (created 2019-08-01T15:40:20Z)
  (deprecated false)
  (url "https://github.com/ouabache/LibrePCB_7400.lplib")
+ (dependency 1b58e2fa-4680-4dce-811e-627dea9b080e)
  (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
 )

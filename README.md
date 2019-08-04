@@ -3,7 +3,15 @@
 ## Description
 
 This is a [LibrePCB](https://librepcb.org) library!
-Just edit this file to add a description about it.
+
+Unoffical Library for 7400 series parts
+
+maintained by John Eaton
+
+Ouabache DesignWorks
+
+z3qmtr45@gmail.com
+
 
 ## License
 
