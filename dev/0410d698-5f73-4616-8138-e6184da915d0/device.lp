@@ -1,5 +1,5 @@
 (librepcb_device 0410d698-5f73-4616-8138-e6184da915d0
- (name "SN74245N")
+ (name "SN74LS245N")
  (description "octal transceiver")
  (keywords "")
  (author "ouabacheDesignWorks")

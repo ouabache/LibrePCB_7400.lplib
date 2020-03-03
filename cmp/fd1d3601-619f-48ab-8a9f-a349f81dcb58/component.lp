@@ -37,7 +37,7 @@
  (signal d5513ff8-7741-4b12-85b0-51de3505105a (name "2Q") (role passive)
   (required false) (negated false) (clock false) (forced_net "")
  )
- (signal f67d9b46-fbad-4de9-bf12-fb42ed68cf90 (name "VDD") (role passive)
+ (signal f67d9b46-fbad-4de9-bf12-fb42ed68cf90 (name "VCC") (role passive)
   (required true) (negated false) (clock false) (forced_net "")
  )
  (signal 55c7ea7c-5752-444d-a60a-51374fd3d939 (name "1PRE_N") (role passive)

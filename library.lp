@@ -8,5 +8,6 @@
  (deprecated false)
  (url "https://github.com/ouabache/LibrePCB_7400.lplib")
  (dependency 1b58e2fa-4680-4dce-811e-627dea9b080e)
+ (dependency 326f091b-b715-44bf-b385-b613cd60d9f3)
  (dependency a9ddf0c6-9b1c-4730-b300-01b4f192ad40)
 )

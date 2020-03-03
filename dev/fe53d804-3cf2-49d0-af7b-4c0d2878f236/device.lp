@@ -1,5 +1,5 @@
 (librepcb_device fe53d804-3cf2-49d0-af7b-4c0d2878f236
- (name "SN7474N")
+ (name "SN74LS74N")
  (description "")
  (keywords "")
  (author "ouabacheDesignWorks")

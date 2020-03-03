@@ -10,7 +10,7 @@
  (schematic_only false)
  (default_value "{{PARTNUMBER}}")
  (prefix "U")
- (signal ffa09320-2bb3-424d-befa-62781c32e845 (name "VDD") (role passive)
+ (signal ffa09320-2bb3-424d-befa-62781c32e845 (name "VCC") (role passive)
   (required true) (negated false) (clock false) (forced_net "")
  )
  (signal d86c2dd9-baf8-41c1-85d1-1a69f7c525f8 (name "DIR") (role passive)

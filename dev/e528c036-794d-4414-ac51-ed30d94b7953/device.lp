@@ -1,5 +1,5 @@
 (librepcb_device e528c036-794d-4414-ac51-ed30d94b7953
- (name "SN74138N")
+ (name "SN74LS138N")
  (description "")
  (keywords "")
  (author "ouabacheDesignWorks")
