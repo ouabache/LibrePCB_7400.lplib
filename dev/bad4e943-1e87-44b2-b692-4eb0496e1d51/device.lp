@@ -1,6 +1,6 @@
 (librepcb_device bad4e943-1e87-44b2-b692-4eb0496e1d51
  (name "SN74LS27N")
- (description "")
+ (description "triple 3 input nor gate\n\nhttp://www.ti.com/lit/ds/symlink/sn74ls27.pdf")
  (keywords "")
  (author "ouabacheDesignWorks")
  (version "0.1")

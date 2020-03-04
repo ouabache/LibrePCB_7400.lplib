@@ -1,6 +1,6 @@
 (librepcb_device e528c036-794d-4414-ac51-ed30d94b7953
  (name "SN74LS138N")
- (description "")
+ (description "3/8 decoder\n\nhttp://www.ti.com/lit/ds/symlink/sn74ls138.pdf")
  (keywords "")
  (author "ouabacheDesignWorks")
  (version "0.1")

@@ -1,6 +1,6 @@
 (librepcb_device 3432ffcc-acd9-49cc-84c6-a60f9879ae3b
  (name "SN74LS02N")
- (description "quad 2 input nor gate")
+ (description "quad 2 input nor gate\n\n\nhttp://www.ti.com/lit/ds/symlink/sn74ls02.pdf")
  (keywords "")
  (author "ouabacheDesignWorks")
  (version "0.1")

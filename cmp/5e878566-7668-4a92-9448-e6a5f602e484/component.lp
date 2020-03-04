@@ -1,6 +1,6 @@
 (librepcb_component 5e878566-7668-4a92-9448-e6a5f602e484
  (name "7432")
- (description "Quad 2 input Or gate")
+ (description "Quad 2 input Or gate\n\nhttp://www.ti.com/lit/ds/symlink/sn74ls32.pdf")
  (keywords "")
  (author "John Eaton")
  (version "0.1")

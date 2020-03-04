@@ -1,5 +1,5 @@
 (librepcb_component 9a52c1d7-d555-46bb-906e-45914aef47d8
- (name "7404")
+ (name "74X4")
  (description "Hex inverter")
  (keywords "")
  (author "John Eaton")

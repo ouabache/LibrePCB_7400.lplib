@@ -1,6 +1,6 @@
 (librepcb_device 985767f1-07c8-42b9-a11e-723b39813f6e
  (name "SN74LS32N")
- (description "quad 2 input or gate")
+ (description "quad 2 input or gate\n\n\nhttp://www.ti.com/lit/ds/symlink/sn74ls32.pdf")
  (keywords "")
  (author "ouabacheDesignWorks")
  (version "0.1")

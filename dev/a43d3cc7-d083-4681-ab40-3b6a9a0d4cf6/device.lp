@@ -1,6 +1,6 @@
 (librepcb_device a43d3cc7-d083-4681-ab40-3b6a9a0d4cf6
  (name "SN74LS04N")
- (description "")
+ (description "hew inverter\n\nhttp://www.ti.com/lit/ds/symlink/sn74ls04.pdf")
  (keywords "")
  (author "ouabacheDesignWorks")
  (version "0.1")
