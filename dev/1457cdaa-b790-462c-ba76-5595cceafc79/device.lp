@@ -1,5 +1,5 @@
 (librepcb_device 1457cdaa-b790-462c-ba76-5595cceafc79
- (name "SN74LS33N")
+ (name "74LS33_DIP")
  (description "quad 2 input nor gate open collector outputs\n\n\nhttp://www.ti.com/lit/ds/symlink/sn74ls33.pdf")
  (keywords "")
  (author "John Eaton")

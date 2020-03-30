@@ -8,7 +8,7 @@
  (deprecated false)
  (category 56f01b1d-0723-4c33-88f7-9968cf96b50f)
  (schematic_only false)
- (default_value "{{PARTNUMBER}}")
+ (default_value "{{PARTNUMBER or DEVICE or COMPONENT}}")
  (prefix "U")
  (signal ffa09320-2bb3-424d-befa-62781c32e845 (name "VCC") (role passive)
   (required true) (negated false) (clock false) (forced_net "")

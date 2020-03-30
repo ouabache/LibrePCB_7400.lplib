@@ -1,5 +1,5 @@
 (librepcb_device 812b9b02-975c-49c9-b143-3eecc7013aa1
- (name "SN74LS11N")
+ (name "74LS11_DIP")
  (description "triple 3 input and gate\n\nhttp://www.ti.com/lit/ds/symlink/sn74ls11.pdf")
  (keywords "")
  (author "ouabacheDesignWorks")

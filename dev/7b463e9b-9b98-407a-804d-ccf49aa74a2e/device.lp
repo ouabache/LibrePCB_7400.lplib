@@ -1,5 +1,5 @@
 (librepcb_device 7b463e9b-9b98-407a-804d-ccf49aa74a2e
- (name "SN74LS37N")
+ (name "74LS37_DIP")
  (description "quad 2 input nand gate\n\nhttp://www.ti.com/lit/ds/symlink/sn74ls37.pdf")
  (keywords "")
  (author "John Eaton")

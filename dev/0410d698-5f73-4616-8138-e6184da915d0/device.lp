@@ -1,5 +1,5 @@
 (librepcb_device 0410d698-5f73-4616-8138-e6184da915d0
- (name "SN74LS245N")
+ (name "74LS245_DIP")
  (description "octal transceiver\n\nhttp://www.ti.com/lit/ds/symlink/sn74ls245.pdf")
  (keywords "")
  (author "ouabacheDesignWorks")

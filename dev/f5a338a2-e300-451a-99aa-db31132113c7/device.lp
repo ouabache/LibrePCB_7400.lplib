@@ -1,5 +1,5 @@
 (librepcb_device f5a338a2-e300-451a-99aa-db31132113c7
- (name "SN74LS85N")
+ (name "74LS85_DIP")
  (description "")
  (keywords "")
  (author "John Eaton")

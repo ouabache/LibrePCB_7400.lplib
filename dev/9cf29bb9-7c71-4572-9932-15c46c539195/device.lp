@@ -1,5 +1,5 @@
 (librepcb_device 9cf29bb9-7c71-4572-9932-15c46c539195
- (name "SN74LS00NSR")
+ (name "74LS00_SM")
  (description "quad 2 input nand gate\n\nhttp://www.ti.com/lit/ds/symlink/sn74ls00.pdf")
  (keywords "")
  (author "John Eaton")

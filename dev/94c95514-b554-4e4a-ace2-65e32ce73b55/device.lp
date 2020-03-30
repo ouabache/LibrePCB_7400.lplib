@@ -1,5 +1,5 @@
 (librepcb_device 94c95514-b554-4e4a-ace2-65e32ce73b55
- (name "SN74LS20N")
+ (name "74LS20_DIP")
  (description "Dual 4 input nand gate\n\nhttp://www.ti.com/lit/ds/symlink/sn74ls20.pdf")
  (keywords "")
  (author "ouabacheDesignWorks")

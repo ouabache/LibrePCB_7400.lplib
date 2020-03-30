@@ -1,5 +1,5 @@
 (librepcb_device d61eee16-7b37-4fc7-87bb-f56b86177c13
- (name "SN74LS26N")
+ (name "74LS26_DIP")
  (description "quad 2 input nand gate High voltage\n\nhttp://www.ti.com/lit/ds/symlink/sn74ls26.pdf")
  (keywords "")
  (author "John Eaton")

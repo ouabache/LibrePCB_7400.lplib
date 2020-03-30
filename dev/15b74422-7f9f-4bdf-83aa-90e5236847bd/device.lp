@@ -1,5 +1,5 @@
 (librepcb_device 15b74422-7f9f-4bdf-83aa-90e5236847bd
- (name "SN74LS00N")
+ (name "74LS00_DIP")
  (description "quad 2 input nand gate\n\nhttp://www.ti.com/lit/ds/symlink/sn74ls00.pdf")
  (keywords "")
  (author "ouabacheDesignWorks")

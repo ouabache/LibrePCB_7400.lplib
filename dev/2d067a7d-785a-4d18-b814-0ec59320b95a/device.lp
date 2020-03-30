@@ -1,5 +1,5 @@
 (librepcb_device 2d067a7d-785a-4d18-b814-0ec59320b95a
- (name "SN74LS07N")
+ (name "74LS07_DIP")
  (description "hex buffers and drivers with open collector high voltage outputs\n\nhttp://www.ti.com/lit/ds/symlink/sn74ls07.pdf")
  (keywords "")
  (author "John Eaton")

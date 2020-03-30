@@ -1,5 +1,5 @@
 (librepcb_device 85578953-853c-4270-954f-ad02c9a8ec3d
- (name "SN74LS14N")
+ (name "74LS14_DIP")
  (description "hex schmitt inverter\n\nhttp://www.ti.com/lit/ds/symlink/sn74ls14.pdf")
  (keywords "")
  (author "ouabacheDesignWorks")

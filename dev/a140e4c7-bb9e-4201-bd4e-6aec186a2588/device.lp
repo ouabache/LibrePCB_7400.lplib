@@ -1,5 +1,5 @@
 (librepcb_device a140e4c7-bb9e-4201-bd4e-6aec186a2588
- (name "SN74LS30N")
+ (name "74LS30_DIP")
  (description "8 input nand gate\n\nhttp://www.ti.com/lit/ds/symlink/sn74ls30.pdf")
  (keywords "")
  (author "John Eaton")

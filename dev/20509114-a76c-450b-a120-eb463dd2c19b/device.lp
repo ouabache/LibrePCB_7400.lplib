@@ -1,5 +1,5 @@
 (librepcb_device 20509114-a76c-450b-a120-eb463dd2c19b
- (name "SN74LS10N")
+ (name "74LS10_DIP")
  (description "triple 3 input nand gate\n\nhttp://www.ti.com/lit/ds/symlink/sn74ls10.pdf")
  (keywords "")
  (author "ouabacheDesignWorks")

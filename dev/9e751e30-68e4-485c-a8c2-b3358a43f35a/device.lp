@@ -1,5 +1,5 @@
 (librepcb_device 9e751e30-68e4-485c-a8c2-b3358a43f35a
- (name "SN74LS09N")
+ (name "74LS09_DIP")
  (description "quad 2 input and gate with open collector\n\nhttp://www.ti.com/lit/ds/symlink/sn74ls09.pdf")
  (keywords "")
  (author "John Eaton")

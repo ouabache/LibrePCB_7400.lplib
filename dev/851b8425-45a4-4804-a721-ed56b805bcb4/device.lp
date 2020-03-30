@@ -1,5 +1,5 @@
 (librepcb_device 851b8425-45a4-4804-a721-ed56b805bcb4
- (name "SN74LS21N")
+ (name "74LS21_DIP")
  (description "dual 4 input and gate\n\nhttp://www.ti.com/lit/ds/symlink/sn74ls21.pdf")
  (keywords "")
  (author "ouabacheDesignWorks")

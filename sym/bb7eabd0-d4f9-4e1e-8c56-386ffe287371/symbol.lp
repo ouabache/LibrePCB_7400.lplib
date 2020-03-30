@@ -69,4 +69,7 @@
  (text 161719b8-1808-45be-946a-5b9e6d7cc3be (layer sym_names) (value "{{NAME}}")
   (align left bottom) (height 2.54) (position -12.7 33.02) (rotation 0.0)
  )
+ (text 4e39316f-da82-4777-854f-4fd14c910fb7 (layer sym_outlines) (value "MAGNITUDE COMP")
+  (align left bottom) (height 2.5) (position 5.08 33.02) (rotation 0.0)
+ )
 )

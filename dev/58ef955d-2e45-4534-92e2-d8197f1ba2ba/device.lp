@@ -1,5 +1,5 @@
 (librepcb_device 58ef955d-2e45-4534-92e2-d8197f1ba2ba
- (name "SN74LS03N")
+ (name "74LS03_DIP")
  (description "quad 2 input nand gate open collector outputs\n\nhttp://www.ti.com/lit/ds/symlink/sn74ls03.pdf")
  (keywords "")
  (author "John Eaton")

@@ -1,5 +1,5 @@
 (librepcb_device ac60670a-82b8-4903-985a-70c37b74239f
- (name "SN74LS86N")
+ (name "74LS86_DIP")
  (description "quad 2 input xor gate")
  (keywords "")
  (author "ouabacheDesignWorks")

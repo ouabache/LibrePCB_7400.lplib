@@ -1,5 +1,5 @@
 (librepcb_device ef22ebb5-f863-43af-b9ea-4d5941c522ac
- (name "SN74LS06N")
+ (name "74LS06_DIP")
  (description "hew inverter with open collector  high voltage outputs\n\nhttp://www.ti.com/lit/ds/symlink/sn74ls06.pdf")
  (keywords "")
  (author "John Eaton")

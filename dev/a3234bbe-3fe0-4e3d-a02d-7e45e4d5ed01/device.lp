@@ -1,5 +1,5 @@
 (librepcb_device a3234bbe-3fe0-4e3d-a02d-7e45e4d5ed01
- (name "SN74LS38N")
+ (name "74LS38_DIP")
  (description "quad 2 input nand gate with open collector outputs\n\nhttp://www.ti.com/lit/ds/symlink/sn74ls38.pdf")
  (keywords "")
  (author "John Eaton")
